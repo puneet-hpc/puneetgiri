@@ -9,7 +9,7 @@
 - Experienced in deploying and managing HPC infrastructure on AWS
 - Setting up monitoring with Prometheus & Grafana for HPC clusters
 - Skilled in EC2 Image Builder, Slurm Scheduler, FSx ONTAP, and EFS
-- Based in Noida, Delhi|NCR
+- Based in Noida, Delhi | NCR
 
 ---
 
